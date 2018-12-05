@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "968759296843",
+    "firebase_url": "https://adgainerchatapp.firebaseio.com",
+    "project_id": "adgainerchatapp",
+    "storage_bucket": "adgainerchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968759296843:android:c509991fb105a000",
+        "android_client_info": {
+          "package_name": "com.rututechnologies.adgainerchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968759296843-imb92fns9r2nbe4thpqkv65p3jobp9fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rututechnologies.adgainerchatapp",
+            "certificate_hash": "3a63935b8acba2f2adb7fe34c43573ce8114878e"
+          }
+        },
+        {
+          "client_id": "968759296843-5483v2i171i5od8mpjametmaupr61ahj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rututechnologies.adgainerchatapp",
+            "certificate_hash": "a5598651f2bbccbccde47a22b4e80daf9576eea1"
+          }
+        },
+        {
+          "client_id": "968759296843-17fsiqgt7fi6ohqgo1i70kdi7a95l0qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJYeGQ88MRRmGWJeeN3-9-TChw-ATgr_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968759296843-17fsiqgt7fi6ohqgo1i70kdi7a95l0qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
